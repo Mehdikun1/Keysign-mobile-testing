@@ -1,9 +1,9 @@
 {
   "+8S2CR": {
-    "defaultMessage": "IMPORTER LES CLE"
+    "defaultMessage": "Importer les clés"
   },
   "+HZbUZ": {
-    "defaultMessage": "Verrouiller automatiquement le Keysign quand le l'appareil est verrioulé"
+    "defaultMessage": "Verrouiller automatiquement le Keysign quand l'appareil est verrioulé"
   },
   "+S3qBX": {
     "defaultMessage": "echec de verification"
@@ -93,135 +93,134 @@
     "defaultMessage": "Ne doit pas dépasser 64 characteres!"
   },
   "B97E6J": {
-    "defaultMessage": "appuyer sur le boutton “Sync Mobile”"
-    ############################################################################################################################
+    "defaultMessage": "Appuyer sur le boutton “Sync Mobile”"
   },
   "Bbkxom": {
-    "defaultMessage": "IDLE LOCK"
+    "defaultMessage": "Verouillage de l'environnement de développement"
   },
   "CdmEya": {
-    "defaultMessage": "Handshake Verify"
+    "defaultMessage": "La verification Handshake"
   },
   "CpHRw1": {
-    "defaultMessage": "Transfer Failed"
+    "defaultMessage": "échec de transfert"
   },
   "D3idYv": {
-    "defaultMessage": "Settings"
+    "defaultMessage": "parametres"
   },
   "D3rOMr": {
-    "defaultMessage": "No Data"
+    "defaultMessage": "pas de données"
   },
   "D5NqQO": {
-    "defaultMessage": "Memo"
+    "defaultMessage": "note"
   },
   "DMFF/H": {
-    "defaultMessage": "Sync Failed"
+    "defaultMessage": "échec de Synchronisation"
   },
   "DtYelJ": {
     "defaultMessage": "Transfer"
   },
   "Duy+4J": {
-    "defaultMessage": "Validator Fee: {amount, number}"
+    "defaultMessage": "Frais de validateur: {amount, number}"
   },
   "Ev6SEF": {
-    "defaultMessage": "New Password"
+    "defaultMessage": "Nouveau mot de pass"
   },
   "G8KMIa": {
-    "defaultMessage": "Always use an escrow, they are currently free."
+    "defaultMessage": "Utilisez toujours un séquestre, actuellement ils sont gratuits."
   },
   "GAWz1j": {
-    "defaultMessage": "DEVICE LOCK"
+    "defaultMessage": "verouillage de l'appareil"
   },
   "GZ/ORp": {
-    "defaultMessage": "Must not exceed 100 characters!"
+    "defaultMessage": "Ne doit pas dépasser 100 characteres!"
   },
   "GretYf": {
-    "defaultMessage": "Current Password"
+    "defaultMessage": "Mot de pass actuel"
   },
   "GseaGh": {
-    "defaultMessage": "Lock the Keysign manually or when the app is closed."
+    "defaultMessage": "Verouiller Keysign manuelement ou quand l'application est fermé."
   },
   "H4lIvd": {
-    "defaultMessage": "The default bank is set by keysign."
+    "defaultMessage": "La banque par default est defini par keysign."
   },
   "IPTyRk": {
     "defaultMessage": "EXPORT"
   },
   "Icxxne": {
-    "defaultMessage": "You can export all your keys encrypted in a file. This will allow you to import them to keysign on another device or simply safeguard them."
+    "defaultMessage": "Vous pouvez exporter toutes vos clés dans un fichier. cela vous permetera de les importer vers keysign sur un autre appareil or simplement les protéger."
   },
   "IglYTF": {
-    "defaultMessage": "Must be at least 8 characters!"
+    "defaultMessage": "Doit contenir au moins 8 characteres!"
   },
   "IkSnjI": {
-    "defaultMessage": "Generate Wallet"
+    "defaultMessage": "Portefeuill general  "
   },
   "J4N5HW": {
-    "defaultMessage": "CONTINUE"
+    "defaultMessage": "CONTINUEZ"
   },
   "Jex29j": {
-    "defaultMessage": "Auto-lock the Keysign after the app window is idle for the specified number of minutes."
+    "defaultMessage": "Verouillage automatique de Keysign apres la fenetre de l'application est inactif pendant un nombre de minutes specifier."
   },
   "KH/2zQ": {
-    "defaultMessage": "Transfer Fund"
+    "defaultMessage": "Transfert de fonds"
   },
   "KN7zKn": {
-    "defaultMessage": "Error"
+    "defaultMessage": "Erreur"
   },
   "KqpQmG": {
-    "defaultMessage": "Select Friend"
+    "defaultMessage": "Selectioner un amie "
   },
   "LQhIrI": {
-    "defaultMessage": "Only numbers and letters allowed"
+    "defaultMessage": "Seules les chiffres et characteres sont autorisé"
   },
   "LiHQih": {
-    "defaultMessage": "Coming Soon"
+    "defaultMessage": "bientot disponible"
   },
   "LwzY+Y": {
-    "defaultMessage": "Clear All Data"
+    "defaultMessage": "Nettoyer toutes le données"
   },
   "MEVZgX": {
-    "defaultMessage": "Scan the QR code To begin the SYNC"
+    "defaultMessage": "Scannez le code QR pour commencer la synchronisation"
   },
   "MODFAR": {
-    "defaultMessage": "Import Keys"
+    "defaultMessage": "Importer les cles"
   },
   "Mq1ePl": {
     "defaultMessage": "Keysign {version, number}"
   },
   "NmZvub": {
-    "defaultMessage": "Must not be empty"
+    "defaultMessage": "Ne doit pas être vide"
   },
   "O8gaYk": {
-    "defaultMessage": "Send Scan"
+    "defaultMessage": "Envoyer un Scan"
   },
   "OTl3nO": {
     "defaultMessage": "Sync/Import/Export"
   },
   "Olyz0E": {
-    "defaultMessage": "Friend with this account number already exists!"
+    "defaultMessage": "Ami(e) avec ce numero de compte exist deja!"
   },
   "Oua4RH": {
-    "defaultMessage": "Received from:"
+    "defaultMessage": "Reçu de:"
   },
   "P5ynDZ": {
-    "defaultMessage": "Sync Scan"
+    "defaultMessage": "Synchronisation du scan"
   },
   "PCSt5T": {
     "defaultMessage": "Preferences"
   },
   "PJE8pF": {
-    "defaultMessage": "Show Fee"
+    "defaultMessage": "Afficher les frais"
   },
   "Pswssl": {
     "defaultMessage": "Confirmation"
   },
   "QbCyGW": {
-    "defaultMessage": "Simple, lightweight, and secure. Get started to connect or create your TNB wallet."
+    "defaultMessage": "Simple, Léger et securisé. commencez pour se connecter ou creer votre portefeuill TNB."
   },
   "QiKKFz": {
-    "defaultMessage": "Change Password"
-  },
+    "defaultMessage": "Changer le mot de pass"
+  },#############################################################################################################################################
   "QrSVSd": {
     "defaultMessage": "Handshake Transfer"
   },
